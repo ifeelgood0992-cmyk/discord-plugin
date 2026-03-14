@@ -1,0 +1,7 @@
+{
+  "name": "CopyDisplayName",
+  "version": "1.0.0",
+  "description": "Adds an option to copy a user's display name",
+  "authors": ["Paewast"],
+  "main": "CopyDisplayName.plugin.js"
+}
